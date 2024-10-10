@@ -1,4 +1,4 @@
-package Chapter3.List3_9.Practice.Q3_3;
+package Chapter3.Practice.Q3_3;
 
 import java.util.Random;
 
